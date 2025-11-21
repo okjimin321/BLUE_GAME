@@ -32,12 +32,15 @@ Phantom 지갑 설정에서 네트워크를 **Testnet**(또는 Devnet)으로 변
 우측 상단의 `Connect Phantom Wallet` 버튼을 클릭하여 지갑을 연결합니다.
 (※ 연결 시 Testnet 환경인지 확인하는 팝업이 뜹니다.)
 
-![Wallet Connect](./image/connect_wallet.png)
+![Wallet Connect](./image/connectWallet.png)
 
 ### 2. 포지션 예측 (Predict)
 실시간 차트를 분석하여 1분 뒤 가격의 방향을 예측하고 버튼을 클릭합니다.
 * **📈 LONG:** 가격 상승 예상
 * **📉 SHORT:** 가격 하락 예상
+
+![Predict](./image/predict.png)
+
 
 ### 3. 대기 (Wait)
 포지션 진입 시 트랜잭션이 발생하며, 승인 후 **60초 타이머**가 작동합니다.
