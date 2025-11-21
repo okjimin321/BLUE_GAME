@@ -9,7 +9,6 @@ from pydantic import BaseModel
 PROGRAM_ID = "CvqJNLw8FkMwni8GcK9r6L5MThpFMDAWhpiH21aPTuPH"  
 SOLANA_RPC_URL = "https://api.devnet.solana.com"
 
-# 템플릿 디렉토리 설정
 templates = Jinja2Templates(directory="templates")
 
 def get_candle_data(minute=1, coin="KRW-BTC", count=200):
