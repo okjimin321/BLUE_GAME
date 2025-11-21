@@ -1,10 +1,10 @@
-# 🎮 BLUENODE: Solana Short/Long Trading Game
+# 🎮 BLUENODE_Solana Short/Long Trading Game
 
 ![Solana](https://img.shields.io/badge/Solana-Testnet-black?logo=solana)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)
 ![Status](https://img.shields.io/badge/Status-Hackathon-blueviolet)
 
-**BLUENODE**는 **Solana Hackathon**을 위해 개발된 실시간 가격 예측 게임입니다.
+**BLUENODE**에서 **BLUE_Sola Hackathon**을 위해 개발된 실시간 가격 예측 게임입니다.
 **Solana Testnet** 환경에서 동작하며, **FastAPI**를 통해 실시간 데이터를 처리합니다. 사용자는 1분 뒤의 가격 등락을 예측하고, 모든 게임 결과는 투명하게 솔라나 블록체인(On-Chain)에 기록됩니다.
 
 ![Main Dashboard](./image/main.png)
