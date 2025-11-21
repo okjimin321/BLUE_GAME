@@ -32,6 +32,8 @@
         window.require = function(moduleName) {
             console.warn(`⚠️ 라이브러리가 require('${moduleName}')을 호출했습니다. 빈 객체를 반환합니다.`);
             
+
+            
             // 만약 crypto를 요구하면 빈 객체라도 줘서 에러를 방지
             if (moduleName === 'crypto') return {}; 
             return {};
